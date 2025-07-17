@@ -1,4 +1,4 @@
-package com.example.hellofreedomPlan
+package com.example.hellofreedomDay1
 
 class Anagram {
     fun checkAnagram(str1: String, str2: String): Boolean {

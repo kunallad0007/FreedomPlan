@@ -1,4 +1,4 @@
-package com.example.hellofreedomPlan
+package com.example.hellofreedomDay1
 
 class PalindromeCheck {
     fun checkPalindrome(input: String): String{

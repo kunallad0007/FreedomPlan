@@ -1,4 +1,4 @@
-package com.example.hellofreedomPlan
+package com.example.hellofreedomDay1
 
 fun main() {
 
